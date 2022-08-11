@@ -3,11 +3,11 @@
 <img src="./img/PDrunner.png" width="200" height="200" />
 </p>
 <h1 align="center">PD Runner</h1>
-<h3 align="center">A tool for Parallels Desktop can start VMs even the trial period has expired</br>
-(Support for PD17.1.0 or earlier)</h3> 
+<h3 align="center">A tool for Parallels Desktop can start VMs</br>
+(Supports PD 18 from v0.3.8)</h3> 
 
 <p align="center">
-Only for learning and research use, please support the genuine</br>
+Only for learning and research use</br>
 <a href="./README.md">中文版本</a>
 </p>
 

@@ -3,10 +3,12 @@
 <img src="./img/PDrunner.png" width="200" height="200" />
 </p>
 <h1 align="center">PD Runner (补档)</h1>
-<p align="center"><i>补档说明：源代码版本为 v0.1.12，发行版本为 v0.3.6</i></br></p>
-<h3 align="center">适用于Parallels Desktop的启动器, 可无视试用期限强制启动客户机 (支持 PD17.1.0)</h3> 
+<p align="center"><i>补档说明：源代码版本为 v0.1.12，发行版本为 v0.3.8</i></br></p>
+<p align="center"><i>由于违反 GPL 的人数过多，原作者于 v0.1.12 之后转向闭源。</i></br></p>
+<h3 align="center">适用于Parallels Desktop的启动器</h3>
+<h3 align="center">(v0.3.8 起支持 PD 18)</h3>
 <p align="center">
-本项目仅用于学习研究使用, 请支持正版!</br>
+本项目仅用于学习研究使用</br>
 </p>
 
 ## 运行截图
