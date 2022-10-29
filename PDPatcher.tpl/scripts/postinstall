@@ -26,7 +26,7 @@ MY_VID=$(defaults read "${PD_DIR}/Contents/Info.plist" CFBundleVersion)
 MY_VER="${MY_VST}-${MY_VID}"
 
 function throw() {
-    echo "$1"; echo "$1" > /tmp/pdp_err.txt
+    osascript -e 'display alert "PD Patcher" message "'"$1"'"'
     exit 1
 }
 
@@ -46,17 +46,19 @@ Current version: ${MY_VER}"
 
 [ `md5 -q "${PD_SRV}"` = "${PD_BEF}" ] || {
     [ -f "${PD_SRV}.bak" ] && {
-        throw "Already patched!"
+        throw "Error: Already patched!"
     }
     open -u "${PD_URL}"
-    throw "PD Service is corrupted, please re-install."
+    throw "PD Service is corrupted, please re-install PD."
 }
 
 pgrep -x "prl_disp_service" || "${PD_MAC}/Parallels Service" service_start
 "${PD_MAC}/prlsrvctl" web-portal signout
 killall -9 prl_client_app prl_disp_service
 
-cp "${PD_SRV}" "${PD_SRV}.bak"
+cp "${PD_SRV}" "${PD_SRV}.bak" || {
+    throw "Permission denied: no write access"
+}
 chmod a-x "${PD_SRV}.bak"
 
 [ "${PD_I01}" -ne -1 ] && { printf "${PD_IIN}" | dd of="${PD_SRV}" obs=1 seek="${PD_I01}" conv=notrunc; }
