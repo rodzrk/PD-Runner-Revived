@@ -158,5 +158,15 @@
         "a_02": 19409808,
         "hash_before": "243cb7469d8d4816f1587fb8f555794b",
         "hash_after": "7b4fe80d98f0fc5a3dfb6d728f272c9f"
+    },
+    {
+        "version": "18.1.1",
+        "build": 53328,
+        "i_01": 5983248,
+        "i_02": 8181360,
+        "a_01": 17487228,
+        "a_02": 19409808,
+        "hash_before": "7935a868eee5be51a9c42abcb92b14cc",
+        "hash_after": "7d431e23567fa9f46756fef53342ae1a"
     }
 ]

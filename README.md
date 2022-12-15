@@ -3,7 +3,7 @@
 <img src="./img/icon.png" width="200" height="200" />
 </p>
 <h1 align="center">PD Patcher</h1>
-<h3 align="center">v18.1.0</h3>
+<h3 align="center">v18.1.1</h3>
 <h3 align="center">适用于 Apple Silicon & Intel 的 PD 补丁</h3>
 <p align="center">本项目仅用于学习研究使用</p>
 
