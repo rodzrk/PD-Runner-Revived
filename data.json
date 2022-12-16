@@ -1,5 +1,105 @@
 [
     {
+        "version": "15.0.0",
+        "build": 46605,
+        "i_01": 9023792,
+        "i_02": 8973280,
+        "a_01": -1,
+        "a_02": -1,
+        "hash_before": "36ca49c1cbaa577636d4f0d55787dc46",
+        "hash_after": "70f89381359d5965bef950a73217ca7a"
+    },
+    {
+        "version": "15.0.0",
+        "build": 46706,
+        "i_01": 9060240,
+        "i_02": 9009664,
+        "a_01": -1,
+        "a_02": -1,
+        "hash_before": "743938b266266837c3fa646bc728637d",
+        "hash_after": "d94a2870deddea1915b658b6109f7e40"
+    },
+    {
+        "version": "15.0.0",
+        "build": 46829,
+        "i_01": 9036688,
+        "i_02": 8986112,
+        "a_01": -1,
+        "a_02": -1,
+        "hash_before": "a6ffdab57389cc0e8f1c6ecaf9ec06f1",
+        "hash_after": "dfa3641287bd31ef73b901a561268aac"
+    },
+    {
+        "version": "15.0.0",
+        "build": 46967,
+        "i_01": 9053472,
+        "i_02": 9002896,
+        "a_01": -1,
+        "a_02": -1,
+        "hash_before": "6aaa420f763887f6e7b1acb5463e75a0",
+        "hash_after": "2b22b9dcc839a66e1c94ba911715ec0a"
+    },
+    {
+        "version": "15.1.0",
+        "build": 47107,
+        "i_01": 9094096,
+        "i_02": 9042896,
+        "a_01": -1,
+        "a_02": -1,
+        "hash_before": "9e3d4f88b47b3aaec6619a5296034d98",
+        "hash_after": "667205a184d31aa3904d6aeebdce2753"
+    },
+    {
+        "version": "15.1.1",
+        "build": 47117,
+        "i_01": 9097040,
+        "i_02": 9045840,
+        "a_01": -1,
+        "a_02": -1,
+        "hash_before": "45010a715f54cfb3838f3ae06b21ee66",
+        "hash_after": "90d0f98c8a8ab02aefc3990d33431f5a"
+    },
+    {
+        "version": "15.1.2",
+        "build": 47119,
+        "i_01": 9097040,
+        "i_02": 9045840,
+        "a_01": -1,
+        "a_02": -1,
+        "hash_before": "0a9866f698aa4f9d840e368f05f1126b",
+        "hash_after": "1c42fe2d0c6b9380657de9207c190942"
+    },
+    {
+        "version": "15.1.2",
+        "build": 47123,
+        "i_01": 9097040,
+        "i_02": 9045840,
+        "a_01": -1,
+        "a_02": -1,
+        "hash_before": "9f247715e556c0e124cbe02b1dc065ab",
+        "hash_after": "ca2d5bfedae7e50727c1a3afd7fd8647"
+    },
+    {
+        "version": "15.1.3",
+        "build": 47255,
+        "i_01": 9111312,
+        "i_02": 9060112,
+        "a_01": -1,
+        "a_02": -1,
+        "hash_before": "a83b9784319aa4e4392479867a80e574",
+        "hash_after": "ab0f657e16ce0609acb4b1391b37342d"
+    },
+    {
+        "version": "15.1.4",
+        "build": "47270",
+        "i_01": 9114816,
+        "i_02": 9063616,
+        "a_01": -1,
+        "a_02": -1,
+        "hash_before": "1e8b3e16d6f01f701586ee8e6fdb5a8d",
+        "hash_after": "55196dc167e5fd95b185bdfa7b895ed6"
+    },
+    {
         "version": "15.1.5",
         "build": 47309,
         "i_01": 9063616,
@@ -10,6 +110,106 @@
         "hash_after": "9ae8c95393d7e65c0ce9a98379773e06"
     },
     {
+        "version": "16.0.0",
+        "build": 48507,
+        "i_01": 6873072,
+        "i_02": 6849072,
+        "a_01": -1,
+        "a_02": -1,
+        "hash_before": "a46a07f320b25557e5b8815df6485309",
+        "hash_after": "d3471b13fc7f0c138f6433e8defe287e"
+    },
+    {
+        "version": "16.0.0",
+        "build": 48516,
+        "i_01": 6548304,
+        "i_02": 8018864,
+        "a_01": -1,
+        "a_02": -1,
+        "hash_before": "3c28fe10225f8abeb581b86543366472",
+        "hash_after": "135a32c474cda77ffb8229dad3e0b916"
+    },
+    {
+        "version": "16.0.0",
+        "build": 48767,
+        "i_01": 6565456,
+        "i_02": 8052064,
+        "a_01": -1,
+        "a_02": -1,
+        "hash_before": "f374efae2c73e0c8ecb4e3ac70e5df02",
+        "hash_after": "9e93b7882912d949b08d92d84e46f594"
+    },
+    {
+        "version": "16.0.0",
+        "build": 48916,
+        "i_01": 6647792,
+        "i_02": 8140512,
+        "a_01": -1,
+        "a_02": -1,
+        "hash_before": "9d825e26bce7de050cd32e978e328741",
+        "hash_after": "718ca0d42ca1b163ba52c6e13eedfd2a"
+    },
+    {
+        "version": "16.0.1",
+        "build": 48919,
+        "i_01": 6647792,
+        "i_02": 8140512,
+        "a_01": -1,
+        "a_02": -1,
+        "hash_before": "8e50116ba3b3d327be9903dca4509394",
+        "hash_after": "2641cfd8f09af3e1e80de55f4b28f650"
+    },
+    {
+        "version": "16.1.0",
+        "build": 48950,
+        "i_01": 6700176,
+        "i_02": 8193712,
+        "a_01": -1,
+        "a_02": -1,
+        "hash_before": "8616cb169217b5e93c2976761ad2e68f",
+        "hash_after": "5b6b33d8f18bd87efdee8663cf4669de"
+    },
+    {
+        "version": "16.1.1",
+        "build": 49141,
+        "i_01": 6700704,
+        "i_02": 8194320,
+        "a_01": -1,
+        "a_02": -1,
+        "hash_before": "df86f3539027fc4b1954122114760fe0",
+        "hash_after": "d4d0c659f121fb8d8701a7433ed7571e"
+    },
+    {
+        "version": "16.1.2",
+        "build": 49151,
+        "i_01": 6704144,
+        "i_02": 8197904,
+        "a_01": -1,
+        "a_02": -1,
+        "hash_before": "bc9cbab9c6c6ec73b36b70f26f18ea0a",
+        "hash_after": "1afd2aaa3435d6ebc39e162976b2def8"
+    },
+    {
+        "version": "16.1.3",
+        "build": 49160,
+        "i_01": 6704368,
+        "i_02": 8197904,
+        "a_01": -1,
+        "a_02": -1,
+        "hash_before": "42df14066d5a3d3767401053f1d32e76",
+        "hash_after": "f64c1f1828d254a2b608d765a3cf3e08"
+    },
+    {
+        "version": "16.5.0",
+        "build": 49183,
+        "i_01": 6704256,
+        "i_02": 8197904,
+        "a_01": -1,
+        "a_02": -1,
+        "hash_before": "2012d148d2715f4b79853699d00b48b9",
+        "hash_after": "60c18a6d84ea5674cf87cd4dfc5049d1"
+    },
+    {
         "version": "16.5.0",
         "build": 50692,
         "i_01": -1,
@@ -18,6 +218,16 @@
         "a_02": 19280408,
         "hash_before": "caf402badaaaf2eb45c3f0267f566aa1",
         "hash_after": "33e3995078ce833dca7bc619f5a049e9"
+    },
+    {
+        "version": "16.5.1",
+        "build": 49187,
+        "i_01": 6704256,
+        "i_02": 8197904,
+        "a_01": -1,
+        "a_02": -1,
+        "hash_before": "851daa8a6b9ef04d0a1134200bb2f3e2",
+        "hash_after": "df78e592d5457ab77e9172615bbb9fe3"
     },
     {
         "version": "16.5.1",
@@ -108,6 +318,26 @@
         "a_02": 19069972,
         "hash_before": "7ecc06097a313962f851b20031aa4e82",
         "hash_after": "3e89afdd3be2e572334f456d1c788a8b"
+    },
+    {
+        "version": "17.1.5",
+        "build": 51577,
+        "i_01": 5846400,
+        "i_02": 8023376,
+        "a_01": 17151684,
+        "a_02": 19069972,
+        "hash_before": "885d930c761d03b276139440917ef7c9",
+        "hash_after": "f28577073b1bf6424b791adda67d31da"
+    },
+    {
+        "version": "17.1.6",
+        "build": 51584,
+        "i_01": 5846400,
+        "i_02": 8023376,
+        "a_01": 17151684,
+        "a_02": 19069972,
+        "hash_before": "08dc68538d6f97c4568e3dfd1963035b",
+        "hash_after": "34508e8b216fdc58578d7818fa81be3a"
     },
     {
         "version": "18.0.0",
